@@ -39285,11 +39285,11 @@ resolve@^2.0.0-next.3:
   linkType: hard
 
 "systeminformation@npm:^5.0.0":
-  version: 5.17.9
-  resolution: "systeminformation@npm:5.17.9"
+  version: 5.33.21
+  resolution: "systeminformation@npm:5.33.21"
   bin:
     systeminformation: lib/cli.js
-  checksum: 75804de0bbdcf00e415452bb9795aea4f1dc1b26f332979933cedb66af07e6b6996ba7487ac877b778a20668fd9da4160cee5dd40462d5a5f2e06636c4959f4a
+  checksum: c04f0014ac6cef7b7d201af937f7aa3a71c3f73de86f9e306e7f2b60dbda2f578caf8bac6353ea1531cd00259afa7de24bcb5b41dc1bf4ab4300507f37067e00
   conditions: (os=darwin | os=linux | os=win32 | os=freebsd | os=openbsd | os=netbsd | os=sunos | os=android)
   languageName: node
   linkType: hard
